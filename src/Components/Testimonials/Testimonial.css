@@ -1,0 +1,115 @@
+.t-wrapper{
+    padding: 0 3rem 0 3rem;
+    height: 45rem;
+    width: 20rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+    flex-direction: column;
+    gap: 2rem;
+    position: relative;
+}
+.t-heading{
+    align-self: start;
+margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+#testimonials{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.t-heading>*{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.t-heading span:nth-of-type(2){
+    color: var(--orange);
+}
+.t-blur1{
+    left: 38rem;
+    top: 16rem;
+}
+.t-blur2{
+    top: 9rem;
+    left: 0;
+}
+.testimonial{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding: 2rem;
+width: 100%;
+height:27rem;
+/* styles same as work.css */
+background: rgba(255, 255, 255, 0.248);
+border: 7px solid var(--blueCard);
+box-shadow: var(--boxShadow);
+border-radius: 20px;
+}
+.testimonial>img{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 100%;
+    margin-bottom: 10px;
+}
+
+.testimonial>span{
+    color: var(--gray);
+    width: 100%;
+    
+}
+.testimonial>button{
+    width: 7rem;
+    height: 60px;
+    margin-top: 10px;
+}
+/* slider */
+.t-wrapper .swiper{
+    width: 100%;
+    height: 70%;
+}
+.t-wrapper .swiper-slide{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    /* width: 70%; */
+}
+.t-wrapper .swiper-pagination-bullet-active{
+    background: var(--orange);
+   
+}
+#span1{
+    text-align: center;
+    color: #242D49;
+}
+
+
+@media screen and (max-width:666px) and (min-width:350px){
+    .testimonial{
+        height: 26.5rem;
+       
+    }
+    .t-wrapper{
+        display: flex;
+        padding: 0;
+        justify-content: center;
+        text-align: center;
+        margin: auto;
+        width: 13rem;
+    }
+    
+    .testimonial>img{
+        width: 70px;
+        height: 70px;
+    }
+   .t-wrapper .t-heading .span1{
+        text-align: center;
+        justify-content: center;
+    }
+}

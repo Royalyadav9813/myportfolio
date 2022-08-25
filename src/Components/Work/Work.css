@@ -1,0 +1,13 @@
+.works{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 30vh;
+    margin-top: 4rem; 
+    justify-content: center;
+    text-align: center;
+}
+@media screen and (max-width:666px) and (min-width:350px){
+    .works{
+        height: 70vh;
+    }
+}
