@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.d288ac52.css",
+    "main.js": "/myportfolio/static/js/main.dbd443be.js",
+    "static/media/gaurav.png": "/myportfolio/static/media/gaurav.d560bf4cc6ca11e9c5b7.png",
+    "static/media/supermarket-management-system.png": "/myportfolio/static/media/supermarket-management-system.c24a6f7f4df2a675e436.png",
+    "static/media/Resume.pdf": "/myportfolio/static/media/Resume.af53e630f7f642e401de.pdf",
+    "static/media/glassesimoji.png": "/myportfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/kbc.jpg": "/myportfolio/static/media/kbc.7dc1851b67d22901ad3c.jpg",
+    "static/media/thumbup.png": "/myportfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/myportfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/myportfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/vishwakrama.jpg": "/myportfolio/static/media/vishwakrama.8a266d96ec91f6e15703.jpg",
+    "static/media/wave1.png": "/myportfolio/static/media/wave1.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/myportfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/myportfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/myportfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/myportfolio/index.html",
+    "main.d288ac52.css.map": "/myportfolio/static/css/main.d288ac52.css.map",
+    "main.dbd443be.js.map": "/myportfolio/static/js/main.dbd443be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d288ac52.css",
+    "static/js/main.dbd443be.js"
+  ]
+}
