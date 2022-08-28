@@ -6,8 +6,8 @@ export const Experience = () => {
      <div className="experience-body">
     <div className="experience" id="Experience">
     <div className="achievement">
-     <div className="circle">1+</div> 
-     <span>Years</span>  
+     <div className="circle">1</div> 
+     <span>Internship</span>  
      <span>Experience</span>  
     </div>
     <div className="achievement">
@@ -16,9 +16,9 @@ export const Experience = () => {
      <span>Projects</span>  
     </div>
     <div className="achievement">
-     <div className="circle">1+</div> 
-     <span>Companies</span>  
-     <span>Work</span>  
+     <div className="circle">450+</div> 
+     <span>DSA</span>  
+     <span>Problem solved</span>  
     </div>
     
     </div>
